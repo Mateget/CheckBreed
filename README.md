@@ -1,7 +1,7 @@
 # Checkbreed Pixelmon-Sidemod
 ## Commands
-Remove shiny charm
- * **/checkbreed <slot>** - works with the selector @a  
+Check if pokemon is breedable
+ * **/checkbreed <slot>** - 
 <!-- end list -->
 
 #### DM me if you have Ideas : Mateget#1595
